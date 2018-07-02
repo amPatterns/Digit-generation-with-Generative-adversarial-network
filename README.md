@@ -1,6 +1,6 @@
 # Digit-generation-with-Generative-adversarial-network
 The aim of the project was to generate images of the digit 0, by using a generative adversarial network .
-after training the  generator against the discriminator a few times, the results were promising.
+After training the  generator against the discriminator a few times, the results were promising.
 
 We used the mnist dataset to gather the images of zeros we needed.
 the generator is made of an input layer , a dense layer with 128 neurons,a leaky relu layer , a dense output layer with 784 neurons.
